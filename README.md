@@ -1,0 +1,1 @@
+ Simple Java app to guess a hidden word which user can define with initial input at the start 
